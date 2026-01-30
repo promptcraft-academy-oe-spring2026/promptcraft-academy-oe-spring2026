@@ -1,5 +1,6 @@
 # AI Self-Efficacy Scale (AISES) - v1.0
-**Instructions:** Please rate your confidence in performing the following tasks using AI tools like ChatGPT, Gemini, or Copilot. Use the scale: **1=Not at all confident, 2=Slightly confident, 3=Moderately confident, 4=Very confident, 5=Extremely confident.**
+**Instructions:** Please rate your confidence in performing the following tasks using AI tools like ChatGPT, Gemini, or Copilot. Use the scale: 
+**1=Not at all confident, 2=Slightly confident, 3=Moderately confident, 4=Very confident, 5=Extremely confident.**
 
 | # | Statement | 1 | 2 | 3 | 4 | 5 |
 |---|-----------|---|---|---|---|---|
