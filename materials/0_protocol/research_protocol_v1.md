@@ -73,8 +73,6 @@ We will recruit a convenience sample of **N = 60** undergraduate and graduate st
 ### 5.4 Demographic & Covariate Data
 *   Collected at pre-test: Age, faculty, year of study, frequency of AI use (daily/weekly/monthly/rarely), primary use case.
 
----
-
 ## 6. Analysis Plan
 
 ### 6.1 Hypothesis Testing
