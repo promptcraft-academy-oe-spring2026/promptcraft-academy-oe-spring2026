@@ -2,16 +2,12 @@
 
 **Óbuda University AI Squad – Spring 2026 | Project Topic 11: AI Skills Development**
 
--
-
 ## 📋 Project Overview
 This repository contains all materials, code, data, and documentation for our AI Squad project: **"The Promptcraft Academy: A Randomized Controlled Evaluation of a Modular AI Literacy Intervention for University Students."**
 
 Our project is a **scientific study**, not just a tutorial. We are measuring the effectiveness of a structured "cookbook" intervention on students' practical AI competency, self-efficacy, and ethical awareness.
 
 **Pre-Registration:** This study was pre-registered on the Open Science Framework (OSF) prior to data collection. [View our pre-registration here](#) *([Link will be added after OSF creation](https://osf.io/ru3v2/))*.
-
---
 
 ## 👥 Team
 - **Ayesha Alam** | Lead & Principal Investigator, Marketing & Strategy
