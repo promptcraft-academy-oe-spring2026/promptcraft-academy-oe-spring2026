@@ -10,9 +10,9 @@
 *(To be written: Brief on AI literacy gap, need for evidence-based training.)*
 
 ## 3. Hypotheses
-*   **H1 (Competency):** Students who complete the Promptcraft Academy intervention will demonstrate a significantly higher score on a practical AI task rubric than students in the control group.
-*   **H2 (Self-Efficacy):** The intervention group will show a greater increase in AI self-efficacy scores from pre-test to post-test compared to the control group.
-*   **H3 (Ethics):** The intervention group will demonstrate superior ability to identify ethical risks in AI use cases in a post-test scenario analysis.
+1.  **H1 (Competency):** Students who complete the Promptcraft Academy intervention will demonstrate a significantly higher score on a practical AI task rubric than students in the control group.
+2.  **H2 (Self-Efficacy):** The intervention group will show a greater increase in AI self-efficacy scores from pre-test to post-test compared to the control group.
+3.  **H3 (Ethics):** The intervention group will demonstrate superior ability to identify ethical risks in AI use cases in a post-test scenario analysis.
 
 ## 4. Methodology
 *(To be detailed: Participant recruitment, randomization, intervention description, control group protocol, blinding procedure.)*
@@ -90,13 +90,12 @@ Responses will be scored on a **0-2 scale** per issue (0=No/Misidentified issue,
 
 ## 6. Analysis Plan
 *(To be detailed: Statistical tests for H1, H2, H3.)*
-## 6. Analysis Plan
 All analyses will be conducted in Python (using `pandas`, `scipy`, `scikit-posthocs`) or JASP, with an alpha level of .05.
 
-*   **Hypothesis 1 (Competency):** We will perform an **Independent Samples t-test** comparing the Post-Test Performance Task scores (out of 12) of the Intervention Group vs. the Control Group. We will also conduct a **2x2 Mixed ANOVA** (Time: Pre/Post × Group: IG/CG) to examine interaction effects.
-*   **Hypothesis 2 (Self-Efficacy):** We will perform a **Paired Samples t-test** on the AISES scores within the Intervention Group (Pre vs. Post). To compare the *change* between groups, we will calculate difference scores (Post-Pre) and run an Independent Samples t-test on these difference scores.
-*   **Hypothesis 3 (Ethics):** We will perform a **Mann-Whitney U test** (non-parametric) to compare the Ethical Scenario scores (ordinal data) between the Intervention and Control groups.
-*   **Exploratory Analysis:** We will analyze the correlation between Performance Task scores and Self-Efficacy scores. We will conduct a thematic analysis of the submitted prompts to categorize common strategies and pitfalls.
+1.   **Hypothesis 1 (Competency):** We will perform an **Independent Samples t-test** comparing the Post-Test Performance Task scores (out of 12) of the Intervention Group vs. the Control Group. We will also conduct a **2x2 Mixed ANOVA** (Time: Pre/Post × Group: IG/CG) to examine interaction effects.
+2.   **Hypothesis 2 (Self-Efficacy):** We will perform a **Paired Samples t-test** on the AISES scores within the Intervention Group (Pre vs. Post). To compare the *change* between groups, we will calculate difference scores (Post-Pre) and run an Independent Samples t-test on these difference scores.
+3.   **Hypothesis 3 (Ethics):** We will perform a **Mann-Whitney U test** (non-parametric) to compare the Ethical Scenario scores (ordinal data) between the Intervention and Control groups.
+4.   **Exploratory Analysis:** We will analyze the correlation between Performance Task scores and Self-Efficacy scores. We will conduct a thematic analysis of the submitted prompts to categorize common strategies and pitfalls.
 
 ## 7. Project Timeline (Gantt)
 | Week | Dates | Key Milestones |
