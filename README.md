@@ -41,13 +41,6 @@ For questions about this project, please contact:
 - **Ayesha Alam:** [email or GitHub handle]
 - **Project Supervisor:** [Name and contact]
 
-- ### 6.2 Statistical Software
-*   Primary analysis: Python (Pandas, SciPy) or JASP.
-*   Significance level (α) set at 0.05.
-
-### 6.3 Data Exclusion Criteria
-*   Participants who fail to complete the post-test will be excluded from analysis (intention-to-treat analysis will not be feasible at this scale).
-*   Performance Task submissions that are clearly non-serious (e.g., single word answers) will be scored as 0 but retained in the dataset.
 ---
 
 ## 🗂️ Repository Structure
