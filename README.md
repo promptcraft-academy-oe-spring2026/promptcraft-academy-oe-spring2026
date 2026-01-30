@@ -37,8 +37,6 @@ For questions about this project, please contact:
 - **Ayesha Alam:** [promptcraft.research@gmail.com]
 - **Project Supervisor:** [Khan M Ashraful Alam @ GMAIL]
 
--
-
 ## 🗂️ Repository Structure
 promptcraft-academy-oe-spring2026/
 ├── admin/                    # Project administration files
