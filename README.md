@@ -9,7 +9,7 @@ This repository contains all materials, code, data, and documentation for our AI
 
 Our project is a **scientific study**, not just a tutorial. We are measuring the effectiveness of a structured "cookbook" intervention on students' practical AI competency, self-efficacy, and ethical awareness.
 
-**Pre-Registration:** This study was pre-registered on the Open Science Framework (OSF) prior to data collection. [View our pre-registration here](#) *(Link will be added after OSF creation)*.
+**Pre-Registration:** This study was pre-registered on the Open Science Framework (OSF) prior to data collection. [View our pre-registration here](#) *([Link will be added after OSF creation](https://osf.io/ru3v2/))*.
 
 ---
 
