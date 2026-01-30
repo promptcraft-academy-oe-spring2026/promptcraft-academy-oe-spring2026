@@ -14,10 +14,10 @@ Our project is a **scientific study**, not just a tutorial. We are measuring the
 ---
 
 ## 👥 Team
-*   **[Ayesha Alam | Lead]** – Principal Investigator, Marketing & Strategy Lead
-*   **[Khan M Ashraful Alam]** – Data & Analysis Lead
-*   **[Saad Abdullah]** – Technology & Content Lead
-
+- **Ayesha Alam** | Lead & Principal Investigator, Marketing & Strategy
+- **Khan M Ashraful Alam** | Data & Analysis Lead  
+- **Saad Abdullah** | Technology & Content Lead
+  
 ## Project Timeline
 - **Phase 1 (Jan-Feb 2026):** Literature review & protocol development
 - **Phase 2 (Mar-Apr 2026):** Intervention design & pilot testing
@@ -32,9 +32,9 @@ Our project is a **scientific study**, not just a tutorial. We are measuring the
 5. Open a Pull Request
 
 6. ## Dependencies
-- R ≥ 4.3.0 (for statistical analysis)
-- Python ≥ 3.10 (for data processing)
-- Quarto ≥ 1.4 (for reproducible reports)
+- **R ≥ 4.3.0** (for statistical analysis)
+- **Python ≥ 3.10** (for data processing)
+- **Quarto ≥ 1.4** (for reproducible reports)
 
 - ## Contact
 For questions about this project, please contact:
@@ -44,18 +44,16 @@ For questions about this project, please contact:
 
 ## 🗂️ Repository Structure
 promptcraft-academy-oe-spring2026/
-├── 📁 admin/                   # Project administration files
-│   ├── meeting_notes.md        # Meeting minutes and notes
-│   └── task_board.md           # Project task tracking
-│
-├── 📁 materials/               # All project materials
-│   ├── 1_literature/           # Background research & literature review
-│   ├── 2_brand/                # Branding, logos, and design assets
-│   ├── 3_content/              # Intervention content & modules
-│   ├── 4_data_collection/      # Survey instruments & data collection tools
-│   ├── 5_analysis/             # Data analysis scripts & results
-│   └── 6_submission/           # Final reports & academic submissions
-│
-├── 📄 README.md                # This file - project overview
-├── 📄 LICENSE                  # MIT License
-└── 📄 .gitignore               # Files to ignore in version control
+├── admin/                    # Project administration files
+│   ├── meeting_notes.md     # Meeting minutes and notes
+│   └── task_board.md        # Project task tracking
+├── materials/               # All project materials
+│   ├── 1_literature/        # Background research & literature review
+│   ├── 2_brand/             # Branding, logos, and design assets
+│   ├── 3_content/           # Intervention content & modules
+│   ├── 4_data_collection/   # Survey instruments & data collection tools
+│   ├── 5_analysis/          # Data analysis scripts & results
+│   └── 6_submission/        # Final reports & academic submissions
+├── README.md                # This file - project overview
+├── LICENSE                  # MIT License
+└── .gitignore              # Files to ignore in version control
