@@ -24,6 +24,71 @@ We will recruit a convenience sample of **N = 60** undergraduate and graduate st
 3.  Direct outreach to classroom instructors for in-class announcements.
 4.  AI Squad and related tech club channels.
 
+### Participant Recruitment & Eligibility
+*   **Target Population:** Undergraduate and graduate students of Óbuda University.
+*   **Recruitment Channels:** University mailing lists, faculty Discord/Slack channels, social media groups (Facebook, LinkedIn), and in-person announcements.
+*   **Sample Size Target:** N = 60 participants, to achieve 30 per group after accounting for estimated 20% attrition.
+*   **Inclusion Criteria:** (1) Currently enrolled student, (2) Willing to commit ~2.5 hours over 3 weeks, (3) Has access to a device and internet.
+*   **Exclusion Criteria:** (1) Professional experience in prompt engineering/AI development, (2) Previous completion of a formal AI literacy course.
+
+### 4.2 Study Design & Randomization
+*   **Design:** Two-arm, parallel-group, randomized controlled trial (RCT) with pre-test and post-test.
+*   **Randomization:** Upon providing consent, participants will be assigned a unique Participant ID (PID). A computer-generated random number list (created via `random.org`) will assign each PID to either the **Intervention Group** or the **Control Group**. Allocation will be concealed until the moment of group assignment.
+
+### 4.3 Intervention Group Protocol
+*   **Intervention:** "The Promptcraft Academy" – A 4-module asynchronous online cookbook hosted on a Notion Public Page.
+*   **Timeline:** 14-day access period.
+*   **Requirements:** Participants must complete all 4 modules and submit the 3 practical "recipe" exercises per module via a Google Form.
+*   **Content:** See Section 4.5.
+
+### 4.4 Control Group Protocol
+*   **Intervention:** "Status Quo" condition. Participants will receive a curated list of 5 high-quality, publicly available online resources about AI and prompt engineering (e.g., OpenAI's prompting guide, a popular YouTube tutorial playlist, a relevant arXiv paper).
+*   **Timeline:** 14-day access period.
+*   **Requirements:** Asked to review materials "as they normally would." No completion tracking.
+
+### 4.5 Intervention Content Overview ("The Promptcraft Academy" Cookbook)
+*   **Module 1: Foundation:** LLM mechanics, basic prompt structure (Role-Context-Task-Format), token awareness.
+*   **Module 2: Promptcraft:** Advanced patterns (Chain-of-Thought, Persona, Criticism), iterative refinement.
+*   **Module 3: Evaluation & Hallucination Mitigation:** Cross-referencing outputs, critical reading, using AI to check AI.
+*   **Module 4: Ethics & Application:** Bias detection, citation and attribution, PII hygiene, academic integrity boundaries.
+
+## 5. Measures
+
+### 5.1 Primary Outcome: Practical AI Competency
+*   **Tool:** Performance Task.
+*   **Description:** Participants are given a dense, 500-word research abstract from a peer-reviewed paper (on a non-technical topic like behavioral economics). They are instructed to use any AI tool of their choice to: (1) Generate a 250-word layman's summary, (2) Extract three key arguments, and (3) Propose two critical questions for the authors. They must submit their final outputs **and** the exact prompts used.
+*   **Scoring:** Using the **Practical AI Task Rubric (PATR)**. See Appendix 5.1A.
+
+### 5.2 Secondary Outcome 1: AI Self-Efficacy
+*   **Tool:** AI Self-Efficacy Scale (AISES).
+*   **Description:** A 10-item, 5-point Likert scale (1 = Strongly Disagree, 5 = Strongly Agree) adapted from general technology self-efficacy scales. Sample item: *"I feel confident in my ability to write a prompt that will get a useful, specific answer from an AI like ChatGPT."*
+*   **Administration:** Pre-test (before randomization) and post-test (after the 14-day period).
+*   **Scoring:** Summative score (10-50). Higher score indicates higher self-efficacy.
+
+### 5.3 Secondary Outcome 2: Ethical Awareness
+*   **Tool:** Ethical Scenario Analysis (ESA).
+*   **Description:** A post-test-only scenario describing a student using AI to complete a course assignment. Participants must identify two potential ethical issues and propose a mitigation for each.
+*   **Scoring:** Binary scoring (0/1) for identifying each core issue and each viable mitigation. Total score 0-4.
+
+### 5.4 Demographic & Covariate Data
+*   Collected at pre-test: Age, faculty, year of study, frequency of AI use (daily/weekly/monthly/rarely), primary use case.
+
+---
+
+## 6. Analysis Plan
+
+### 6.1 Hypothesis Testing
+*   **H1 (Competency):** An independent samples t-test will compare the post-test **PATR scores** of the Intervention Group vs. the Control Group.
+*   **H2 (Self-Efficacy):** A paired samples t-test will compare pre/post **AISES scores** within the Intervention Group. The *change score* (post-pre) will then be compared to the Control Group's change score using an independent samples t-test.
+*   **H3 (Ethics):** A Mann-Whitney U test will compare the **ESA scores** of the Intervention vs. Control groups (due to ordinal, non-normal data).
+
+### 6.2 Statistical Software
+*   Primary analysis: Python (Pandas, SciPy) or JASP.
+*   Significance level (α) set at 0.05.
+
+### 6.3 Data Exclusion Criteria
+*   Participants who fail to complete the post-test will be excluded from analysis (intention-to-treat analysis will not be feasible at this scale).
+*   Performance Task submissions that are clearly non-serious (e.g., single word answers) will be scored as 0 but retained in the dataset.
 **Inclusion Criteria:**
 *   Currently enrolled as a student at Óbuda University.
 *   Has used at least one Generative AI tool (e.g., ChatGPT, DeepSeek, Perplexity Ai, Bohrium AI, Claude, Gemini, Copilot) at least once.
