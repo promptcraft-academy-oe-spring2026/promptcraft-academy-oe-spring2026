@@ -4,7 +4,7 @@
 ## 1. Metadata
 *   **Date Created:** 2026-01-30
 *   **Protocol Version:** 1.0
-*   **OSF Pre-Registration Link:** *[Link will be added after OSF registration]*
+*   **OSF Pre-Registration Link:** *[[Link will be added after OSF registration](https://osf.io/3jyb7)]*
 
 ## 2. Introduction & Problem Statement
 *(To be written: Brief on AI literacy gap, need for evidence-based training.)*
