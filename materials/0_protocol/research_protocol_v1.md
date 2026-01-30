@@ -67,30 +67,14 @@ This is a **single-blind study**. Participants will not be told their group assi
 4.  **Day 15:** Post-Test administered (Self-Efficacy Scale + Performance Task 2 + Ethical Scenario).
 
 This allocation sequence will be stored in a password-protected file, separate from the main participant data, to maintain allocation concealment until group assignment.
+
 ## 5. Measures
 *(To be detailed: Description of Performance Task, Scoring Rubric, Self-Efficacy Scale, Ethical Scenario.)*
-# AI Self-Efficacy Scale (AISES) - v1.0
-**Instructions:** Please rate your confidence in performing the following tasks using AI tools like ChatGPT, Gemini, or Copilot. Use the scale: **1=Not at all confident, 2=Slightly confident, 3=Moderately confident, 4=Very confident, 5=Extremely confident.**
-
-| # | Statement | 1 | 2 | 3 | 4 | 5 |
-|---|-----------|---|---|---|---|---|
-| 1 | I can write a prompt that gets an AI to summarize a long, complex article for a report. |   |   |   |   |   |
-| 2 | I can use AI to brainstorm and refine creative ideas for a project. |   |   |   |   |   |
-| 3 | I can instruct an AI to help debug or explain errors in a piece of code. |   |   |   |   |   |
-| 4 | I can design a prompt that makes an AI adopt a specific expert persona (e.g., a marketing strategist, a research scientist). |   |   |   |   |   |
-| 5 | I can use AI to analyze a dataset (e.g., in a CSV file) to find trends or answer specific questions. |   |   |   |   |   |
-| 6 | I can iteratively refine a prompt based on an AI's initial output to get a better result. |   |   |   |   |   |
-| 7 | I can identify when an AI's output might be factually incorrect or a "hallucination." |   |   |   |   |   |
-| 8 | I can use AI to help plan and break down a complex multi-step project. |   |   |   |   |   |
-| 9 | I understand how to use AI in a way that is ethical and avoids plagiarism in an academic setting. |   |   |   |   |   |
-|10 | I feel confident I can learn to use new AI tools and features as they become available. |   |   |   |   |   |
-
-**Scoring:** Sum of all responses (Range: 10-50). Higher score indicates higher self-efficacy.
-
 ### 5.1 Primary Measure 1: AI Self-Efficacy Scale (AISES)
 We developed a 10-item Likert-scale instrument (1-5) measuring confidence across practical AI tasks (summarization, brainstorming, debugging, persona use, data analysis, iterative refinement, hallucination detection, project planning, ethical use, and tool adaptability). **Internal consistency** will be assessed using Cronbach's Alpha. **Pre- and Post-Test scores** will be compared within and between groups.
 
 *(See `self_efficacy_scale.md` for the full instrument.)*
+
 # Performance Task & Scoring Rubric - v1.0
 
 ## Task Instruction (Given to Participant):
