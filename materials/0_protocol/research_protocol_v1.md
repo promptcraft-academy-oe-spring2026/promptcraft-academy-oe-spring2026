@@ -26,7 +26,7 @@ We will recruit a convenience sample of **N = 60** undergraduate and graduate st
 
 **Inclusion Criteria:**
 *   Currently enrolled as a student at Óbuda University.
-*   Has used at least one Generative AI tool (e.g., ChatGPT, Gemini, Copilot) at least once.
+*   Has used at least one Generative AI tool (e.g., ChatGPT, DeepSeek, Perplexity Ai, Bohrium AI, Claude, Gemini, Copilot) at least once.
 *   Provides informed digital consent.
 
 **Exclusion Criteria:**
