@@ -24,19 +24,19 @@ Our project is a **scientific study**, not just a tutorial. We are measuring the
 - **Phase 3 (May-Jun 2026):** Data collection & analysis
 - **Phase 4 (Jul 2026):** Report writing & dissemination
 
-- ## How to Contribute
+## How to Contribute
 1. Fork this repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-6. ## Dependencies
+## Dependencies
 - **R ≥ 4.3.0** (for statistical analysis)
 - **Python ≥ 3.10** (for data processing)
 - **Quarto ≥ 1.4** (for reproducible reports)
 
-- ## Contact
+## Contact
 For questions about this project, please contact:
 - **Ayesha Alam:** [email or GitHub handle]
 - **Project Supervisor:** [Name and contact]
